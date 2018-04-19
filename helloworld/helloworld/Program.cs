@@ -11,7 +11,8 @@ namespace HelloWorld
     {
         static void Main()
         {
-            Console.WriteLine("Hello World hehe!");
+            Console.WriteLine("Hello World!");
+            //ta komenda jest bez sensuuuu 1111
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
